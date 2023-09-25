@@ -27,25 +27,25 @@ loghandler = {
         status: false,
         code: 503,
         message: 'Error, Service Unavaible',
-        maintanied_by: 'Danzz Coding'
+        maintanied_by: 'shanachan'
     },
     noturl: {
     	status: false,
     	code: 403,
     	message: 'Error, Invlid Url',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     nottext: {
     	status: false,
     	code: 403,
     	message: 'Error, Invlid Text',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     nottext1: {
     	status: false,
     	code: 403,
     	message: 'Error, Invlid Text 1',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     nottext2: {
     	status: false,
@@ -56,59 +56,59 @@ loghandler = {
     notnum: {
     	status: false,
     	message: 'Enter Num',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     notpage: {
     	status: false,
     	message: 'Enter Page',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     notmoji1: {
     	status: false,
     	code: 403,
     	message: 'Error, Invlid Emoji 1',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     notmoji2: {
     	status: false,
     	code: 403,
     	message: 'Error, Invlid Emoji 2',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     notquery: {
     	status: false,
     	code: 403,
     	message: 'Error, Invlid Query',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     notapikey: {
     	status: false,
     	code: 403,
     	message: 'Error, Invalid Apikey, Please Check The Apikey In Dash',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     notapikeyprem: {
     	status: false,
     	code: 403,
     	message: 'Error, Invalid Apikey, You Are Not A Premium User, Buy In Pricing',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     notfound: {
     	status: false,
     	code: 404,
     	message: 'Error, Not Found',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     notid: {
     	status: false,
     	code: 404,
     	message: 'Error, Invalid Id or Username',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     },
     ready: {
     	status: false,
     	code: 403,
     	message: 'Error, ​​Already In Use',
-    	maintanied_by: 'Danzz Coding'
+    	maintanied_by: 'shanachan'
     }
 }
