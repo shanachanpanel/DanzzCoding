@@ -1,8 +1,8 @@
 ## Rest api WhatsApp bot
-`Created by: Danzz Coding`
+`Created by: shanachan `
 
 ### Example
- [`Rest Api`](https://api-danzz.xyz)<br>
+ [`Rest Api`](https://api-shanachanofc.cyclic.cloud/)<br>
 
 ### Information
 Language
@@ -12,13 +12,13 @@ Manufacture date
 `30 september 2022`
 
 ### Forks
- [`Repo`](https://github.com/Danzzxcodes/danzz-apii/fork)<br>
+ [`Repo`](https://github.com/shanachanpanrl/DanzzCoding/fork)<br>
 
 ### Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DanzzCoding/danzz-apiv3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shanachanpanel/DanzzCoding)
 
 ### Settings 
-File Setting [`set.js`](https://github.com/Danzzxcodes/danzz-apii/edit/master/set.js)<br>
+File Setting [`set.js`](https://github.com/shanachanpanel/DanzzCoding/edit/master/set.js)<br>
 
 ### Feature list
 
@@ -50,11 +50,11 @@ File Setting [`set.js`](https://github.com/Danzzxcodes/danzz-apii/edit/master/se
 
 ### Sosmed
 
-[`Instagram`](https://instagram.com/ramdani_real01)<br>
-[`Youtube`](https://youtube.com/c/DanzzCoding)<br>
+[`Instagram`](https://instagram.com/rizaedtz01)<br>
+[`Youtube`](https://youtube.com/c/rizaedtz01)<br>
 
 ### Contact
 
-[`WhatsApp`](https://wa.me/6288296339947)<br>
-[`Email`](mailto:danzzcoding@gmail.com)<br>
-[`My Rest Api`](https://danzz-api.herokuapp.com)<br>
+[`WhatsApp`](https://wa.me/6285974238938)<br>
+[`Email`](mailto:rizaedtz@gmail.com)<br>
+[`My Rest Api`](https://api-shanachanofc.cyclic.cloud/)<br>
