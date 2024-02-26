@@ -30,7 +30,7 @@ router.get('/checkapikey', async (req, res, next) => {
 	if (keys) {
 	json = JSON.stringify({
 		status: true,
-		creator: 'Danzz Coding',
+		creator: 'Takamiya',
 		result: {
          apikey: keys
 		},
@@ -78,7 +78,7 @@ router.get('/main/runtime', async (req, res, next) => {
 		status: true,
 		runtime: muptime(process.uptime()),
 		info:{       
-            creator: 'Danzz Coding'            
+            creator: 'shanachan'            
         }
     }
     res.json(runtim)
